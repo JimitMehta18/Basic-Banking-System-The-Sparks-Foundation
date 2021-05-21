@@ -12,7 +12,8 @@ Back-end : PHP
 
 Database : MySQL   
 
-Database contains two Tables- 
+Database contains two Tables:-
+
 Users Table: 
 1. User table conatain basic fields such as name, email & current balance. 
 
